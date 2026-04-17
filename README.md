@@ -1,3 +1,7 @@
+<img width="1920" height="806" alt="Image" src="https://github.com/user-attachments/assets/9b199394-17f4-4e0d-ad11-c1b4b558dc6c" />
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=SiliusJM&color=blue&style=flat-square&label=Visitas)
+
 ## Hola a todos 👋
 
 🎓 Soy **Ingeniero en Sistemas de Información** con una fuerte pasión por la tecnología, el desarrollo de software y la creación de soluciones que generen impacto. Me considero una persona **proactiva, adaptable y con pensamiento crítico**, lo que me ha permitido crecer tanto en proyectos personales como en entornos profesionales.  
