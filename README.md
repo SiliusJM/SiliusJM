@@ -2,55 +2,102 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=SiliusJM&color=blue&style=flat-square&label=Visitas)
 
-## Hola a todos 👋
+## 👋 Hola a todos
 
-🎓 Soy **Ingeniero en Sistemas de Información** con una fuerte pasión por la tecnología, el desarrollo de software y la creación de soluciones que generen impacto. Me considero una persona **proactiva, adaptable y con pensamiento crítico**, lo que me ha permitido crecer tanto en proyectos personales como en entornos profesionales.  
+🎓 Soy **Ingeniero en Sistemas de Información** apasionado por el desarrollo de software, la automatización y la creación de herramientas que generen impacto real. Me caracterizo por ser una persona **proactiva, adaptable y orientada a resolver problemas**, con experiencia tanto en proyectos personales como en entornos profesionales.
 
-Desde mis estudios universitarios en la **Universidad de Guayaquil**, he estado vinculado al mundo del desarrollo y la innovación tecnológica. Mi experiencia incluye desde el desarrollo de aplicaciones web y móviles hasta proyectos con **aprendizaje automático**, explorando cómo la inteligencia artificial puede resolver problemas reales.  
-
----
-
-## 🚀 Sobre mí  
-- 💻 Experiencia práctica en **desarrollo de software**, desde aplicaciones web hasta videojuegos interactivos.  
-- 🧩 Pasantía en **Zero Day School Technology S.A**, donde desarrollé un proyecto en **Unity 2D** para juegos interactivos infantiles (2023).  
-- 🎯 Enfoque en el **trabajo en equipo** y la **resolución de problemas**, siempre con disposición para aprender y enfrentar nuevos retos.  
-- 🌱 Motivado por seguir aprendiendo nuevas tecnologías y aplicar mis conocimientos en proyectos de impacto.  
+Actualmente me desempeño como **Desarrollador (Pasante)** en **Sudamericana de Software**, donde he fortalecido mis habilidades trabajando en proyectos reales con tecnologías modernas y metodologías de equipo.
 
 ---
 
-## 🛠️ Proyectos Personales  
-Estos son algunos de los proyectos que he desarrollado a lo largo de mi carrera:  
+## 🚀 Sobre mí
 
-- 📊 **Tesis – Desarrollo e Implementación de un CRM con MEAN Stack**  
-  Tecnologías: MongoDB, Express.js, Angular, Node.js.  
-
-- 🏢 **Aplicación para la buena postura de empleados de Servientrega**  
-  Tecnologías: API RESTful, Firebase, CRUD.  
-
-- 🌦️ **Aplicación del clima**  
-  Tecnologías: Ionic, Angular, TypeScript, OpenWeather API.  
-
-- ✅ **Aplicación Web de Lista de Tareas**  
-  Tecnologías: Django.  
-
-- 🤖 **Modelos de aprendizaje automatizado**  
-  Tecnologías: Convolutional Neural Networks (CNN), LSTM, Multi-Layer Perceptron (MLP).  
+- 💼 +8 meses de experiencia profesional en desarrollo de software.
+- ⚛️ Experiencia con **React + Spring Boot** en proyectos empresariales.
+- 🔄 Participación en migraciones de **Angular a React (Microfrontends)**.
+- 🌿 Uso de **Git (branches, commits, pull requests)** en entornos colaborativos.
+- 🧠 Conocimientos en **Oracle Forms & Reports**.
+- 🎯 Enfoque en resolución de problemas, aprendizaje continuo y trabajo en equipo.
+- 📚 Actualmente aprendiendo **C# y .NET (ASP.NET)**.
 
 ---
 
-## 🧰 Habilidades Técnicas  
-- **Lenguajes de programación:** Java, Python, TypeScript, JavaScript, C#.  
-- **Frameworks y librerías:** Angular, Node.js, Express.js, Spring, Hibernate, JavaFX, Firebase, Ionic, Django.  
-- **Bases de datos:** MySQL, Firebase, MongoDB.  
-- **Otros:** Edición de videos, creación de contenido, manejo de Office (Word, Excel, PowerPoint).  
+## 🛠️ Proyectos Personales Destacados
+
+### 🎮 Herramientas para Streamers
+
+- 🚀 **Overlay para Rocket League (Twitch + StreamElements)**  
+  Aplicación de escritorio que rastrea tu MMR competitivo y actualiza automáticamente comandos del bot en Twitch.
+
+- 🎵 **Tracker de estadísticas de osu! en tiempo real**  
+  Aplicación que obtiene estadísticas del jugador y actualiza comandos de StreamElements para consulta en el chat.
 
 ---
 
-## 🎨 Otros Intereses  
-Además del desarrollo de software, me apasionan actividades que complementan mi perfil profesional y creativo:  
+### 🤖 Inteligencia Artificial & Automatización
 
-- 🛠️ **Limpieza y mantenimiento de computadoras y laptops**.  
-- 🎬 **Edición de videos**.  
-- 📈 **Creador de contenido**, explorando nuevas formas de transmitir ideas y conocimiento.  
-- 🌍 Curiosidad por explorar nuevas tendencias tecnológicas, especialmente en inteligencia artificial y videojuegos.  
+- 🗣️ **Traductor local de voz a voz con clonación de voz (GPU)**  
+  Pipeline:
+  `Whisper → Gemini Flash → Chatterbox TTS`
 
+  - Traducción entre 17 idiomas  
+  - Preserva el tono de voz original  
+  - Procesamiento local (sin costos de API para TTS)
+
+---
+
+### 📥 Automatización de Contenido (Platzi Downloader Fork)
+
+- Eliminación de dependencia manual de ChromeDriver (uso de `undetected-chromedriver`)
+- Compatibilidad con nuevo formato de URLs de Platzi
+- Soporte para reproductor DASH (.mpd → .m3u8)
+- Manejo automático de popups
+- Corrección en numeración de clases
+- Requirements optimizados para Python 3.10+ / 3.13
+- Fix de `distutils` mediante `setuptools`
+
+---
+
+### 📊 Otros Proyectos
+
+- 📊 CRM con MEAN Stack (Tesis)
+- 🏢 Aplicación de postura para empleados (Firebase + API REST)
+- 🌦️ Aplicación del clima (Ionic + Angular)
+- ✅ To-Do App (Django)
+- 🤖 Modelos de Machine Learning (CNN, LSTM, MLP)
+
+---
+
+## 🧰 Habilidades Técnicas
+
+### 💻 Lenguajes
+Java · Python · JavaScript · TypeScript · C#
+
+### ⚙️ Frameworks & Tecnologías
+React · Angular · Node.js · Express · Spring Boot · Hibernate  
+Django · Firebase · Ionic · .NET (en aprendizaje)
+
+### 🗄️ Bases de Datos
+MySQL · MongoDB · Firebase
+
+### 🧠 Otros
+Git · Microfrontends · APIs REST · Oracle Forms & Reports
+
+---
+
+## 🎨 Otros Intereses
+
+- 🛠️ Mantenimiento de computadoras
+- 🎬 Edición de video
+- 🎮 Desarrollo de herramientas para gaming y streaming
+- 🌍 Interés en IA, automatización y nuevas tecnologías
+
+---
+
+## 💡 Enfoque Actual
+
+Estoy enfocado en crecer como desarrollador fullstack combinando:
+
+- Backend con .NET / Spring Boot
+- Frontend con React
+- Automatización + IA aplicada
